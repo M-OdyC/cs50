@@ -10,5 +10,3 @@
 
 ## Scratch
 * Introducing MIT's Scratch.
-
-This repository has my notes and problem sets on Harvard's CS50 course,  available for free on edX.
